@@ -9,5 +9,3 @@ class Question:
         self.answer = answer
 
 
-new_q = Question("Hello ", "goodbye")
-print(new_q.answer)
